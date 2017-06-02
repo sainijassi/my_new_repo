@@ -1,0 +1,8 @@
+<?php
+/**
+Plugin Name: Basic
+Description: this is for basic learn of wordpress
+Author: Jasvir
+Version: 0
+
+*/
